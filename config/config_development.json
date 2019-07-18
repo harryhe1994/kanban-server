@@ -1,0 +1,7 @@
+{
+  "kanban" : {
+    "title" : "Kan ban Web Server",
+    "port" : 8686,
+    "context" : "/api"
+  }
+}

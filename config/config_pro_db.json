@@ -1,0 +1,8 @@
+{
+  "MongoDB": {
+    "title": "Mongo DB connect info",
+    "port": 27017,
+    "context": "localhost",
+    "actionDB": "retro_pro"
+  }
+}
